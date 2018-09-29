@@ -1,5 +1,7 @@
 # Unity-ObjectSpawnerHelper
 A simple class to help you spawn objects easily using the Inspector or quickly through code.
+Note: This is not for designing levels. This is for when your game is running/in-play mode for you to easily spawn your objects through code after setting them in the inspector. It's not for designing levels/when not in play mode (I had some people confused on that).
+
 
 ![ViewInInspector](https://pbs.twimg.com/media/DoIndi3UYAAZ1qP.jpg)
 
