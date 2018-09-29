@@ -1,7 +1,5 @@
 # Unity-ObjectSpawnerHelper
 A simple class to help you spawn objects easily using the Inspector or quickly through code.
-Make it easy for yourself to spawn a prefab from either the file location or just by dragging it into the inspector.
-Easily set the transform and parent.
 
 ![ViewInInspector](https://pbs.twimg.com/media/DoIndi3UYAAZ1qP.jpg)
 
